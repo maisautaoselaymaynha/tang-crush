@@ -1,16 +1,16 @@
 const CONFIG = {
-    introTitle: 'Aloo ',
-    introDesc: `Có muốn chơi game với mình không 😘`,
-    btnIntro: 'Tiếp',
-    title: 'Trả lời điii 👀👀',
-    desc: 'Chọn 1 trong 2 :)) ',
-    btnYes: 'Có nhaa 💗💗',
-    btnNo: 'Dell....cút!!',
-    question:'Nói tớ lí do cậu thích chơi với tớ đi 🥰',
+    introTitle: 'Hi ',
+    introDesc: `Tớ có 1 câu hỏi muốn hỏi cậu á ? Cậu trả lời thật lòng nha🥰`,
+    btnIntro: 'Okii',
+    title: 'Cậu có thấy vui khi làm bạn với tớ không?',
+    desc: 'Không trả lời mà thoát ra làm con 🐶 ',
+    btnYes: 'Có vui lắm á 💗💗',
+    btnNo: 'Vui cai lon :))',
+    question:'Nói tớ lí do cậu thấy vui khi làm bạn với tớ 🥰',
     btnReply: 'Gửi cho tớ <3',
-    reply: 'Cậu xinh cậu có quyền 💗💗💗💗💗💗💗💗💗💗💗💗💗',
+    reply: 'Vì cậu rất thân thiện, tốt bụng, đẹp zaii !!!',
     mess: 'Tớ biết mà 🤣🤣',
-    messDesc: 'Thôi vô game đi chơi vs mình đi!! Không vô làm chóa nha ヾ(≧▽≦*)o ',
+    messDesc: 'Được làm bạn với cậu cũng vui mà 😊. Ib nói chuyện xíu đê🍄',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100028792354422'
+    messLink: 'https://www.facebook.com/profile.php?id=100067168362580'
     }
