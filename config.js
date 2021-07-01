@@ -5,7 +5,7 @@ const CONFIG = {
     title: 'Trả lời điii 👀👀',
     desc: 'Chọn 1 trong 2 :)) ',
     btnYes: 'Có nhaa 💗💗',
-    btnNo: 'Dell....cút!!',
+    btnNo: 'Dell....cút!!!',
     question:'Nói tớ lí do cậu thích chơi với tớ đi 🥰',
     btnReply: 'Gửi cho tớ <3',
     reply: 'Cậu xinh cậu có quyền 💗💗💗💗💗💗💗💗💗💗💗💗💗',
